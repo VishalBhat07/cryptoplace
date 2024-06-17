@@ -61,9 +61,11 @@ const Navbar = () => {
           <option value="eur">EUR</option>
           <option value="inr">INR</option>
         </select>
+        <a href="https://github.com/VishalBhat07" target="_blank" rel="noopener noreferrer">
         <button>
-          Sign up <img src={arrow_icon} alt="" />
+          GitHub <img src={arrow_icon} alt="" />
         </button>
+        </a>
       </div>
     </div>
   );
